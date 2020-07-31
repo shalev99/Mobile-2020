@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "vs-fq3",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": false
+}
